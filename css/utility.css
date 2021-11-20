@@ -1,0 +1,45 @@
+
+
+.container {
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem ;
+}
+
+.lead {
+    font-size: 1.3rem;
+}
+
+.text-center {
+    text-align: center;
+}
+/* Buttons */
+.btn {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    color: #fff;
+    display: inline-block;
+}
+
+.btn-primary {
+    background: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background: var(--primary-color-hover);
+}
+
+
+.btn-secondary {
+    background: var(--secondary-color);
+}
+
+.btn-secondary:hover {
+    background: var(--secondary-color-hover);
+}
+
+
+
+
+
